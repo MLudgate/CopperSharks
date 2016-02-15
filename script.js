@@ -1,6 +1,6 @@
 
 function checkboxes(){
-	return _.map($("input"),function(box){return $(box).is(":checked");});
+	return _.map($("cake"),function(box){return $(box).is(":checked");});
 }
 
 
